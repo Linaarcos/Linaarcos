@@ -1,11 +1,11 @@
 # 👋 Hola, soy Lina Arcos  
 
-🎓 Ingeniera Industrial | 📊 Analista de Datos en formación | 📈 Marketing Digital  
+🎓 Ingeniera Industrial | 📊 Analista de Datos | 📈 Marketing Digital en formación 
 
 ---
 
 ## 🚀 Sobre mí  
-Soy apasionada por los datos y la tecnología. Actualmente me estoy preparando en **análisis de datos** (Python, SQL, visualización) y en **marketing digital** para conectar la analítica con la toma de decisiones estratégicas.  
+Soy apasionada por los datos y la tecnología, en **análisis de datos** (Python, SQL, visualización). Actualmente me estoy preparando en **marketing digital** para conectar la analítica con la toma de decisiones estratégicas.  
 
 Me interesa aplicar mis conocimientos en proyectos que integren negocio, datos y tecnología, siempre con un enfoque práctico y orientado a resultados.  
 
@@ -24,8 +24,6 @@ Me interesa aplicar mis conocimientos en proyectos que integren negocio, datos y
 🔹 [Estudio de hábitos de escucha musical](link-a-tu-repo)  
 🔹 [Automatización de reportes con Python](link-a-tu-repo)  
 🔹 [Dashboard en Power BI](link-a-tu-repo)  
-
-*(Aquí irás actualizando con los proyectos de TripleTen y los que vayas creando)*  
 
 ---
 
