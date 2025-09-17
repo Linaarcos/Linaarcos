@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Lina Arcos  
 
-<!--
-**Linaarcos/Linaarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniera Industrial | 📊 Analista de Datos en formación | 📈 Marketing Digital  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+Soy apasionada por los datos y la tecnología. Actualmente me estoy preparando en **análisis de datos** (Python, SQL, visualización) y en **marketing digital** para conectar la analítica con la toma de decisiones estratégicas.  
+
+Me interesa aplicar mis conocimientos en proyectos que integren negocio, datos y tecnología, siempre con un enfoque práctico y orientado a resultados.  
+
+---
+
+## 🛠️ Habilidades  
+- **Lenguajes y Herramientas:** Python, SQL, Pandas, Jupyter Notebook  
+- **Visualización:** Power BI, Matplotlib, Seaborn  
+- **Metodologías:** Análisis estadístico, limpieza de datos, storytelling con datos  
+- **Otros:** Gestión de proyectos, visión estratégica de negocio  
+
+---
+
+## 📂 Portafolio de Proyectos  
+🔹 [Análisis de clientes de e-commerce](link-a-tu-repo)  
+🔹 [Estudio de hábitos de escucha musical](link-a-tu-repo)  
+🔹 [Automatización de reportes con Python](link-a-tu-repo)  
+🔹 [Dashboard en Power BI](link-a-tu-repo)  
+
+*(Aquí irás actualizando con los proyectos de TripleTen y los que vayas creando)*  
+
+---
+
+## 🌐 Conéctate conmigo  
+- 💼 [LinkedIn](www.linkedin.com/in/lina-arcos)  
+- 📧 laarcosh96@gmail.com  
+
+---
+
+✨ *Siempre en busca de nuevas oportunidades para aprender, colaborar y aportar valor a través de los datos.*
