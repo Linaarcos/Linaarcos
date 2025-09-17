@@ -12,9 +12,18 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 
 ## 🛠️ Tecnologías y Herramientas  
 
-- **Lenguajes y análisis de datos:** Python (Pandas, NumPy, Matplotlib, SciPy), SQL, Excel avanzado  
-- **Visualización:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Otros:** Git, GitHub, Jupyter Notebook, Google Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)  
 
 ---
 
@@ -36,10 +45,13 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 
 ---
 
-## 🌐 Conéctate conmigo  
-- 💼 [LinkedIn](www.linkedin.com/in/lina-arcos)  
-- 📧 laarcosh96@gmail.com  
+## 📫 Contáctame  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+📧 lina.arcos@example.com  
+🌍 Popayán, Colombia  
 
 ---
 
-✨ *Siempre en busca de nuevas oportunidades para aprender, colaborar y aportar valor a través de los datos.*
+✨ *Siempre abierta a nuevas oportunidades para aprender, colaborar y aportar valor a través del análisis de datos.*  
+
