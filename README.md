@@ -1,29 +1,38 @@
-# 👋 Hola, soy Lina Arcos  
+# 👩‍💻 Lina Alejandra Arcos Hurtado  
 
-🎓 Ingeniera Industrial | 📊 Analista de Datos | 📈 Marketing Digital en formación 
-
----
-
-## 🚀 Sobre mí  
-Soy apasionada por los datos y la tecnología, en **análisis de datos** (Python, SQL, visualización). Actualmente me estoy preparando en **marketing digital** para conectar la analítica con la toma de decisiones estratégicas.  
-
-Me interesa aplicar mis conocimientos en proyectos que integren negocio, datos y tecnología, siempre con un enfoque práctico y orientado a resultados.  
+### Ingeniera Industrial | Analista de Datos | Marketing Digital en formación  
 
 ---
 
-## 🛠️ Habilidades  
-- **Lenguajes y Herramientas:** Python, SQL, Pandas, Jupyter Notebook  
-- **Visualización:** Power BI, Matplotlib, Seaborn  
-- **Metodologías:** Análisis estadístico, limpieza de datos, storytelling con datos  
-- **Otros:** Gestión de proyectos, visión estratégica de negocio  
+## 👩‍🔬 Sobre mí  
+Soy Ingeniera Industrial egresada de la Universidad Nacional de Colombia, actualmente en formación como **Analista de Datos** en TripleTen y en **Marketing Digital**.  
+Me interesa el análisis de datos aplicado a negocios, optimización de procesos y toma de decisiones estratégicas.  
 
 ---
 
-## 📂 Portafolio de Proyectos  
-🔹 [Análisis de clientes de e-commerce](link-a-tu-repo)  
-🔹 [Estudio de hábitos de escucha musical](link-a-tu-repo)  
-🔹 [Automatización de reportes con Python](link-a-tu-repo)  
-🔹 [Dashboard en Power BI](link-a-tu-repo)  
+## 🛠️ Tecnologías y Herramientas  
+
+- **Lenguajes y análisis de datos:** Python (Pandas, NumPy, Matplotlib, SciPy), SQL, Excel avanzado  
+- **Visualización:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Otros:** Git, GitHub, Jupyter Notebook, Google Analytics  
+
+---
+
+## 📊 Proyectos Destacados  
+
+🔹 [📂 Proyecto: Hábitos de música en Springfield y Shelbyville](#)  
+*Análisis de datos de consumo musical para identificar patrones de comportamiento en dos ciudades.*  
+
+🔹 [📂 Proyecto: Instacart (E-commerce)](#)  
+*Limpieza y análisis de pedidos en una tienda online, identificación de patrones de compra y segmentación de clientes.*  
+
+🔹 [📂 Proyecto: Megaline (Análisis Estadístico)](#)  
+*Comparación de ingresos entre planes de telefonía móvil Surf y Ultimate, con pruebas estadísticas.*  
+
+🔹 [📂 Proyecto: Tienda Ice (Videojuegos)](#)  
+*Análisis de factores de éxito en videojuegos y recomendaciones para campañas publicitarias.*  
+
+*(Agrega aquí los enlaces a tus repositorios de GitHub cuando los tengas públicos)*  
 
 ---
 
