@@ -47,9 +47,9 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 
 ## 📫 Contáctame  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-📧 lina.arcos@example.com  
-🌍 Popayán, Colombia  
+linkedin.com/in/lina-arcos
+📧 laarcosh96@gmail.com  
+🌍 Barcelona, España   
 
 ---
 
