@@ -29,19 +29,15 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 
 ## 📊 Proyectos Destacados  
 
-🔹 [Análisis Estadístico: Tarifas de Prepago Megaline](https://github.com/Linaarcos/Telecom-Revenue-Analysis.git)**
-*Análisis de ingresos y comportamiento de consumo para optimizar el presupuesto publicitario de una operadora móvil.*
+### 🎮 [Análisis de Éxito en la Industria de Videojuegos (Tienda Ice)](https://github.com/Linaarcos/Ice-Games-Market-Analysis)
+**Descripción:** Análisis exploratorio y estadístico para determinar patrones de éxito en ventas globales. 
+* **Habilidades:** Limpieza de datos, segmentación regional (NA, EU, JP), y pruebas de hipótesis.
+* **Herramientas:** Python, Pandas, Matplotlib, Seaborn, SciPy.
 
-🔹 [📂 Proyecto: Instacart (E-commerce)](#)  
-*Limpieza y análisis de pedidos en una tienda online, identificación de patrones de compra y segmentación de clientes.*  
-
-🔹 [📂 Proyecto: Megaline (Análisis Estadístico)](#)  
-*Comparación de ingresos entre planes de telefonía móvil Surf y Ultimate, con pruebas estadísticas.*  
-
-🔹 [📂 Proyecto: Tienda Ice (Videojuegos)](#)  
-*Análisis de factores de éxito en videojuegos y recomendaciones para campañas publicitarias.*  
-
-*(Agrega aquí los enlaces a tus repositorios de GitHub cuando los tengas públicos)*  
+### 📞 [Análisis de Rentabilidad: Tarifas de Telefonía (Megaline)](https://github.com/Linaarcos/Telecom-Revenue-Analysis.git)
+**Descripción:** Comparativa de ingresos entre planes de prepago para optimizar el presupuesto publicitario.
+* **Habilidades:** Análisis de comportamiento de usuarios y estadística descriptiva.
+* **Herramientas:** Python, Pandas, Análisis Estadístico.
 
 ---
 
