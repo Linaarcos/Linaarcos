@@ -29,6 +29,28 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 
 ## 📊 Proyectos Destacados  
 
+### 🎮 [Análisis Predictivo de Mercado: Industria de Videojuegos](https://github.com/Linaarcos/Ice-Games-Market-Analysis)
+**Descripción:** Estudio analítico integral para la tienda "Ice" con el fin de identificar patrones de éxito y optimizar campañas publicitarias. 
+* **Herramientas:** `Python 3.x`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy (stats)`.
+* **Habilidades:** * **Análisis Estadístico:** Validación de hipótesis mediante pruebas T (T-test) sobre la percepción de usuarios.
+    * **Análisis de Mercado:** Perfilamiento regional y detección de ciclos de vida de plataformas líderes.
+    * **Ciencia de Datos:** Análisis Exploratorio de Datos (EDA), correlación de factores y limpieza de datos masivos.
+    * **Estrategia de Negocio:** Generación de insights para la toma de decisiones basada en el retorno de inversión (ROI).
+ 
+### 🍏 [Análisis de Comportamiento y Test A/A/B: Startup Alimentaria](https://github.com/Linaarcos/Startup-Food-App-AAB-Testing)
+**Descripción:** Investigación integral del Customer Journey en una aplicación móvil de alimentos. Analicé el embudo de ventas para identificar puntos críticos de abandono y validé estadísticamente un experimento de diseño (fuentes) mediante un Test A/A/B para asegurar la estabilidad de la conversión.
+
+* **Herramientas:** `Python`, `Pandas`, `Plotly`, `SciPy (Z-test)`, `Análisis de Logs`.
+* **Habilidades:** * **Análisis de Funnels:** Cálculo de tasas de retención por etapa y detección de cuellos de botella en el proceso de compra.
+    * **Experimentación (Test A/B):** Diseño y validación de pruebas de proporciones con múltiples grupos de control.
+    * **Estadística Avanzada:** Control de errores tipo I y ajuste de significancia para comparaciones múltiples (Bonferroni).
+    * **Visualización:** Representación dinámica de la pérdida de usuarios mediante gráficos de embudo interactivos.
+
+### 🚕 [Análisis de Taxis en Chicago: Clima y Demanda](https://github.com/Linaarcos/Chicago-Taxi-Analysis-Statistical-Test)
+* **Descripción:** Estudio del mercado de transporte en Chicago mediante la integración de bases de datos SQL y Python. 
+* **Habilidades:** Web Scraping, Consultas complejas (Joins/Group By), Pruebas de Hipótesis (T-Test), Análisis de Series Temporales.
+* **Herramientas:** `SQL (PostgreSQL)`, `Python`, `SciPy`, `Matplotlib`.
+
 ### 🎮 [Análisis de Éxito en la Industria de Videojuegos (Tienda Ice)](https://github.com/Linaarcos/Ice-Games-Market-Analysis)
 **Descripción:** Análisis exploratorio y estadístico para determinar patrones de éxito en ventas globales. 
 * **Habilidades:** Limpieza de datos, segmentación regional (NA, EU, JP), y pruebas de hipótesis.
@@ -39,18 +61,6 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 * **Habilidades:** Análisis de comportamiento de usuarios y estadística descriptiva.
 * **Herramientas:** Python, Pandas, Análisis Estadístico.
 
-### 🚕 [Análisis de Taxis en Chicago: Clima y Demanda](https://github.com/Linaarcos/Chicago-Taxi-Analysis-Statistical-Test)
-* **Descripción:** Estudio del mercado de transporte en Chicago mediante la integración de bases de datos SQL y Python. 
-* **Habilidades:** Web Scraping, Consultas complejas (Joins/Group By), Pruebas de Hipótesis (T-Test), Análisis de Series Temporales.
-* **Herramientas:** `SQL (PostgreSQL)`, `Python`, `SciPy`, `Matplotlib`.
-
-### 🎮 [Análisis Predictivo de Mercado: Industria de Videojuegos](https://github.com/Linaarcos/Ice-Games-Market-Analysis)
-**Descripción:** Estudio analítico integral para la tienda "Ice" con el fin de identificar patrones de éxito y optimizar campañas publicitarias. 
-* **Herramientas:** `Python 3.x`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy (stats)`.
-* **Habilidades:** * **Análisis Estadístico:** Validación de hipótesis mediante pruebas T (T-test) sobre la percepción de usuarios.
-    * **Análisis de Mercado:** Perfilamiento regional y detección de ciclos de vida de plataformas líderes.
-    * **Ciencia de Datos:** Análisis Exploratorio de Datos (EDA), correlación de factores y limpieza de datos masivos.
-    * **Estrategia de Negocio:** Generación de insights para la toma de decisiones basada en el retorno de inversión (ROI).
 ---
 
 ## 📫 Contáctame  
