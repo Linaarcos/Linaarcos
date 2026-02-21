@@ -28,6 +28,14 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 ---
 
 ## 📊 Proyectos Destacados  
+### 🏋️ [Machine Learning: Predicción de Retención y Churn - Model Fitness](https://github.com/Linaarcos/Gym-Customer-Churn-Machine-Learning)
+**Descripción:** Desarrollo de un modelo predictivo avanzado para identificar el riesgo de cancelación de socios en la cadena "Model Fitness". El proyecto combina aprendizaje supervisado para predecir el *churn* y aprendizaje no supervisado para segmentar a los usuarios, permitiendo diseñar estrategias de fidelización basadas en el comportamiento real del cliente.
+
+* **Herramientas:** `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`, `Seaborn`.
+* **Habilidades:** * **Modelado Predictivo:** Entrenamiento y validación de algoritmos de clasificación (Regresión Logística y Random Forest).
+    * **Clustering (K-Means):** Segmentación de perfiles de usuario mediante análisis jerárquico y dendrogramas.
+    * **Análisis de Métricas:** Evaluación de desempeño del modelo mediante Accuracy, Precision y Recall.
+    * **Insights de Negocio:** Identificación de factores críticos de abandono como la frecuencia de asistencia y la participación en clases grupales.
 
 ### 🍏 [Análisis de Comportamiento y Test A/A/B: Startup Alimentaria](https://github.com/Linaarcos/Startup-Food-App-AAB-Testing)
 **Descripción:** Investigación integral del Customer Journey en una aplicación móvil de alimentos. Analicé el embudo de ventas para identificar puntos críticos de abandono y validé estadísticamente un experimento de diseño (fuentes) mediante un Test A/A/B para asegurar la estabilidad de la conversión.
