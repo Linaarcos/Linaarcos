@@ -29,8 +29,8 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 
 ## 📊 Proyectos Destacados  
 
-🔹 [📂 Proyecto: Hábitos de música en Springfield y Shelbyville](#)  
-*Análisis de datos de consumo musical para identificar patrones de comportamiento en dos ciudades.*  
+🔹 [Análisis Estadístico: Tarifas de Prepago Megaline](https://github.com/Linaarcos/Telecom-Revenue-Analysis.git)**
+*Análisis de ingresos y comportamiento de consumo para optimizar el presupuesto publicitario de una operadora móvil.*
 
 🔹 [📂 Proyecto: Instacart (E-commerce)](#)  
 *Limpieza y análisis de pedidos en una tienda online, identificación de patrones de compra y segmentación de clientes.*  
