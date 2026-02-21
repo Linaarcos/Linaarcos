@@ -39,6 +39,18 @@ Me interesa el análisis de datos aplicado a negocios, optimización de procesos
 * **Habilidades:** Análisis de comportamiento de usuarios y estadística descriptiva.
 * **Herramientas:** Python, Pandas, Análisis Estadístico.
 
+### 🚕 [Análisis de Taxis en Chicago: Clima y Demanda](https://github.com/Linaarcos/Chicago-Taxi-Analysis-Statistical-Test)
+* **Descripción:** Estudio del mercado de transporte en Chicago mediante la integración de bases de datos SQL y Python. 
+* **Habilidades:** Web Scraping, Consultas complejas (Joins/Group By), Pruebas de Hipótesis (T-Test), Análisis de Series Temporales.
+* **Herramientas:** `SQL (PostgreSQL)`, `Python`, `SciPy`, `Matplotlib`.
+
+### 🎮 [Análisis Predictivo de Mercado: Industria de Videojuegos](https://github.com/Linaarcos/Ice-Games-Market-Analysis)
+**Descripción:** Estudio analítico integral para la tienda "Ice" con el fin de identificar patrones de éxito y optimizar campañas publicitarias. 
+* **Herramientas:** `Python 3.x`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy (stats)`.
+* **Habilidades:** * **Análisis Estadístico:** Validación de hipótesis mediante pruebas T (T-test) sobre la percepción de usuarios.
+    * **Análisis de Mercado:** Perfilamiento regional y detección de ciclos de vida de plataformas líderes.
+    * **Ciencia de Datos:** Análisis Exploratorio de Datos (EDA), correlación de factores y limpieza de datos masivos.
+    * **Estrategia de Negocio:** Generación de insights para la toma de decisiones basada en el retorno de inversión (ROI).
 ---
 
 ## 📫 Contáctame  
